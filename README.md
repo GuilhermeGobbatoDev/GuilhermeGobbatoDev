@@ -32,11 +32,4 @@
     <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 </p>
-
-    </td>
-    <td width="400px" align="right">
-      <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"
-      width="400px">
-    </td>
-  </tr>
 </table>
