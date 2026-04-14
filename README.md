@@ -28,11 +28,10 @@ align="right">
 
 <p align="left">
   <a href="mailto:guilhermegobbato1@gmail.com?subject=Contato pelo GitHub">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
 
-  <a href="https://www.linkedin.com/in/guilherme-gobbato-9aa8b637a/">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/guilherme-gobbato-9aa8b637a/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
-</table>
