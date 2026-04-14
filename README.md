@@ -1,6 +1,7 @@
-<table>
-  <tr>
-    <td>
+<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"
+alt="ilustração de um computador"
+width="400px"
+align="right">
 
 <p align="left"> 
   Hello Word! Me chamo Guilherme, sou um progamador júnior com foco em <strong>back-end</strong>.<br>
