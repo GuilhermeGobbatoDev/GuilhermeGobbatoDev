@@ -27,8 +27,8 @@ align="right">
 </p>
 
 <p align="left">
-  <a href="mailto:guilhermegobbato1@gmail.com?subject=Contato pelo GitHub">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="https://mail.google.com/mail/?view=cm&fs=1&to=guilhermegobbato1@gmail.com&subject=Contato pelo GitHub&body=Olá Guilherme, vi seu perfil no GitHub e gostaria de falar com você.">
+  <img src="https://img.shields.io/badge/Gmail-FF0000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-gobbato-9aa8b637a/" target="_blank">
