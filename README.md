@@ -1,9 +1,6 @@
-<img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"
-alt="ilustração de um computador"
-min-width="400px"
-max-width="400px"
-width="400px"
-align="right">
+<table>
+  <tr>
+    <td>
 
 <p align="left"> 
   Hello Word! Me chamo Guilherme, sou um progamador júnior com foco em <strong>back-end</strong>.<br>
@@ -27,11 +24,19 @@ align="right">
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:guilhermegobbato1@gmail.com" alt="Gmail"/>
+  <a href="mailto:guilhermegobbato1@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white">
   </a>
 
   <a href="https://www.linkedin.com/in/guilherme-gobbato-9aa8b637a/">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white">
   </a>
 </p>
+
+    </td>
+    <td width="400px" align="right">
+      <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif"
+      width="400px">
+    </td>
+  </tr>
+</table>
