@@ -19,6 +19,7 @@ align="right">
 <p align="left">
   💼 Ferramentas: 
   <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
 </p>
 
 <p align="left">
