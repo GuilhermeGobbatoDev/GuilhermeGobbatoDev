@@ -2,7 +2,7 @@
 alt="ilustração de um computador"
 width="400px"
 align="right">
-# Hello Word!
+# Hello Word! ☕
 <p align="left"> 
   Me chamo Guilherme, sou um progamador júnior com foco em <strong>back-end</strong>.<br>
   Atualmente estou cursando o Ensino Médio Técnico em Programação/Desenvolvimento de Software.
